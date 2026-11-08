@@ -1,14 +1,6 @@
 <div align="center">
 
-  <img src="./assets/aura-header.svg" alt="Bonitaaa" width="100%" />
-
-  <br />
-
-  <img src="./assets/aura-about.svg" alt="À propos" width="100%" />
-
-  <br />
-
-  <img src="./assets/aura-stack.svg" alt="Stack" width="100%" />
+  <img src="./assets/profile-aura.svg" alt="Profil GitHub de bONITAH" width="100%" />
 
   <br />
 
