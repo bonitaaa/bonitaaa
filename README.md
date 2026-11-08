@@ -11,9 +11,5 @@
     <img src="./assets/button-discord.svg" width="130" height="44" alt="Discord" />
   </a>
 
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=bonitaaa&style=flat-square&color=6e50dc&label=VUES%20DU%20PROFIL" alt="Vues du profil" />
-
 </div>
 
