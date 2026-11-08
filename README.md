@@ -1,6 +1,14 @@
 <div align="center">
 
-  <img src="./assets/profile-card.svg" alt="Profil de bonitaaa" width="100%" />
+  <img src="./assets/aura-header.svg" alt="Bonitaaa" width="100%" />
+
+  <br />
+
+  <img src="./assets/aura-about.svg" alt="À propos" width="100%" />
+
+  <br />
+
+  <img src="./assets/aura-stack.svg" alt="Stack" width="100%" />
 
   <br />
 
