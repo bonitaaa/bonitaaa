@@ -5,10 +5,10 @@
   <br />
 
   <a href="https://github.com/bonitaaa">
-    <img src="./assets/button-github.svg" width="146" height="44" alt="GitHub" />
+    <img src="./assets/button-github.svg" width="120" height="44" alt="GitHub" />
   </a>
   <a href="https://discord.gg/i4srBC5R5Z">
-    <img src="./assets/button-discord.svg" width="146" height="44" alt="Discord" />
+    <img src="./assets/button-discord.svg" width="130" height="44" alt="Discord" />
   </a>
 
   <br />
