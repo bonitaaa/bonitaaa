@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1016"/>
+      <stop offset="1" stop-color="#090b10"/>
+    </linearGradient>
+    <radialGradient id="heroGlow" cx="50%" cy="48%" r="70%">
+      <stop offset="0" stop-color="#6d3b31" stop-opacity=".42"/>
+      <stop offset=".46" stop-color="#25293f" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#0c0f15" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="redGlow" cx="35%" cy="50%" r="80%">
+      <stop offset="0" stop-color="#8b293a" stop-opacity=".46"/>
+      <stop offset="1" stop-color="#16111a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="50%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#193c63" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#10131b" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="15" stdDeviation="18" flood-color="#000" flood-opacity=".42"/>
+    </filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
+  </defs>
+
+  <rect width="1200" height="790" rx="28" fill="url(#bg)"/>
+  <g opacity=".5" filter="url(#blur)">
+    <circle cx="235" cy="145" r="120" fill="#7b2832"/>
+    <circle cx="880" cy="130" r="150" fill="#183e58"/>
+    <circle cx="625" cy="625" r="160" fill="#16392e"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="36" y="34" width="1128" height="292" rx="24" fill="#0e1117" stroke="#252a34"/>
+    <rect x="36" y="34" width="1128" height="292" rx="24" fill="url(#heroGlow)"/>
+    <text x="600" y="143" text-anchor="middle" fill="#f5f5f6" font-family="Segoe UI, Arial, sans-serif" font-size="65" font-weight="800" letter-spacing="2">bonitaaa</text>
+    <text x="600" y="184" text-anchor="middle" fill="#858b96" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="7">CODE  /  CREATE  /  SAIL</text>
+
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#aeb3bd">
+      <rect x="405" y="222" width="112" height="34" rx="17" fill="#151920" stroke="#2b3039"/>
+      <text x="461" y="244" text-anchor="middle">minimalism</text>
+      <rect x="530" y="222" width="123" height="34" rx="17" fill="#151920" stroke="#2b3039"/>
+      <text x="591" y="244" text-anchor="middle">discord bots</text>
+      <rect x="666" y="222" width="128" height="34" rx="17" fill="#151920" stroke="#2b3039"/>
+      <text x="730" y="244" text-anchor="middle">javascript</text>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="36" y="350" width="760" height="220" rx="24" fill="#11131a" stroke="#252a34"/>
+    <rect x="36" y="350" width="760" height="220" rx="24" fill="url(#redGlow)"/>
+    <text x="78" y="407" fill="#777d88" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="4">À PROPOS</text>
+    <text x="78" y="459" fill="#f0f1f3" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="750">Construire des choses</text>
+    <text x="78" y="497" fill="#f0f1f3" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="750">qui comptent.</text>
+    <text x="78" y="536" fill="#9ba0aa" font-family="Segoe UI, Arial, sans-serif" font-size="15">Bots Discord · outils JavaScript · idées en mouvement</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="820" y="350" width="344" height="101" rx="24" fill="#11151d" stroke="#252a34"/>
+    <rect x="820" y="350" width="344" height="101" rx="24" fill="url(#blueGlow)"/>
+    <circle cx="866" cy="401" r="20" fill="#172f4b" stroke="#275c8f"/>
+    <text x="866" y="408" text-anchor="middle" font-family="Segoe UI Emoji, sans-serif" font-size="23">◉</text>
+    <text x="902" y="391" fill="#747b87" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">TOUJOURS</text>
+    <text x="902" y="416" fill="#ebedf0" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">en train d’apprendre</text>
+
+    <rect x="820" y="469" width="344" height="101" rx="24" fill="#121319" stroke="#252a34"/>
+    <circle cx="866" cy="520" r="20" fill="#3a2d16" stroke="#7d5b1d"/>
+    <text x="866" y="528" text-anchor="middle" fill="#e7b44e" font-family="Segoe UI Symbol, sans-serif" font-size="27">★</text>
+    <text x="902" y="510" fill="#747b87" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">CHAQUE JOUR</text>
+    <text x="902" y="535" fill="#ebedf0" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">créer, tester, améliorer</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="36" y="595" width="1128" height="159" rx="24" fill="#0f1218" stroke="#252a34"/>
+    <text x="600" y="635" text-anchor="middle" fill="#707681" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="5">STACK</text>
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#b7bbc3">
+      <rect x="283" y="669" width="112" height="38" rx="19" fill="#171b22" stroke="#2b3039"/><text x="339" y="693" text-anchor="middle">JavaScript</text>
+      <rect x="410" y="669" width="92" height="38" rx="19" fill="#171b22" stroke="#2b3039"/><text x="456" y="693" text-anchor="middle">Node.js</text>
+      <rect x="517" y="669" width="120" height="38" rx="19" fill="#171b22" stroke="#2b3039"/><text x="577" y="693" text-anchor="middle">Discord.js</text>
+      <rect x="652" y="669" width="78" height="38" rx="19" fill="#171b22" stroke="#2b3039"/><text x="691" y="693" text-anchor="middle">Git</text>
+      <rect x="745" y="669" width="172" height="38" rx="19" fill="#171b22" stroke="#2b3039"/><text x="831" y="693" text-anchor="middle">toujours +</text>
+    </g>
+  </g>
+</svg>
+
