@@ -8,7 +8,7 @@
     <img src="./assets/button-discord.svg" width="130" height="44" alt="Discord" />
   </a>
   <a href="https://github.com/bonitaaa">
-    <img src="./assets/button-views.svg" width="110" height="44" alt="Vues du profil" />
+    <img src="./assets/button-views.svg" width="124" height="44" alt="26 vues du profil" />
   </a>
 
 </div>
