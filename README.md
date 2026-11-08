@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-aura-v2.svg" alt="Profil GitHub de bONITAH" width="100%" />
+  <img src="./assets/profile-aura-v3.svg" alt="Profil GitHub de bONITAH" width="100%" />
 
   <br />
 
